@@ -16,6 +16,6 @@ This project is a simple *Arduino-based Human Detection Robot* using a *PIR sens
 - Jumper Wires  
 
 ## Internship Report 
-👉🏻 [Download Report](Internship_Report)
+👉🏻 [Download Report](Internship_Report.pdf)
 ## Download Code here
-👉🏻[Download Code](code_)
+👉🏻[Download Code](code_.ino)
